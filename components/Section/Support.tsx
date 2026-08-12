@@ -323,20 +323,20 @@ export default function Support() {
             FORMULAIRE
             ============================== */}
         <div
-          className="
-            mt-16
-            w-full
-            max-w-[380px]
-            self-start
-            text-white
-            sm:mt-20
-            md:mt-24
-            md:max-w-[400px]
-            lg:mt-20
-            lg:max-w-[420px]
-            xl:mt-24
-          "
-        >
+  className="
+    mt-16
+    w-full
+    max-w-[320px]
+    self-start
+    text-white
+    sm:mt-20
+    md:mt-24
+    md:max-w-[340px]
+    lg:mt-20
+    lg:max-w-[360px]
+    xl:mt-24
+  "
+>
           <h2
             className="
               mb-5
